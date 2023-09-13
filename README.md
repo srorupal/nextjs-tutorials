@@ -1,4 +1,4 @@
-# demo-nextjs
+# Nextjs-demo
 
 1) Installation
 
